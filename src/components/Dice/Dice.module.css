@@ -1,0 +1,16 @@
+.diceBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+
+.diceIconBox{
+    margin-bottom: 20px;
+}
+
+.diceIconBox svg{
+    margin-right: 10px;
+}

@@ -1,0 +1,8 @@
+.diceBtn{
+    padding: 15px 40px;
+    border: none;
+    color: white;
+    background: #1e8986c4;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
